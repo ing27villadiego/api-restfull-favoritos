@@ -1,0 +1,19 @@
+{
+  "name": "api-restfull-favoritos",
+  "version": "1.0.0",
+  "description": "Proyecto de api restFull de nodejs y angular para agragr favoritos ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ing27villadiego/api-restfull-favoritos.git"
+  },
+  "author": "Jeaffer Villadiego <ing27villadiego@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ing27villadiego/api-restfull-favoritos/issues"
+  },
+  "homepage": "https://github.com/ing27villadiego/api-restfull-favoritos#readme"
+}
