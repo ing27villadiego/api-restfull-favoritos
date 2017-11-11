@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ing27villadiego/api-restfull-favoritos/issues"
   },
-  "homepage": "https://github.com/ing27villadiego/api-restfull-favoritos#readme"
+  "homepage": "https://github.com/ing27villadiego/api-restfull-favoritos#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
